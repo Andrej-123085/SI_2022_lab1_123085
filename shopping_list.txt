@@ -1,5 +1,5 @@
 sapun x2
-tetratka x3
+tetratka x4
 moliv x1
 sok x2
-voda x2
+voda x3
