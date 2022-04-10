@@ -2,4 +2,4 @@ sapun x2
 tetratka x3
 moliv x1
 sok x2
-voda x2
+voda x3
