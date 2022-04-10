@@ -1,5 +1,11 @@
 sapun x2
 tetratka x4
 moliv x1
+<<<<<<< HEAD
 sok x2
 voda x3
+=======
+coca_cola x2
+voda x3
+pasta x1
+>>>>>>> branch2
