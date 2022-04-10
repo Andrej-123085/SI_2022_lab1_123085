@@ -1,1 +1,1 @@
-# SI_2022_lab1_123085
+# Andrej Filipovski 123085
